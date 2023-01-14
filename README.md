@@ -4,7 +4,7 @@
 **benj1sa/benj1sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 
 - 🔭 I’m currently working on a simple music player with ai generated album covers based on the mood and genre of the song
 - 🌱 I’m currently learning java fundamentals
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bsaenz@umd.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a rubiks cube in under a minute!
+-->
