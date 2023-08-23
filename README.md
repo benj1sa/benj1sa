@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Benjamin%20Saenz&font=Fira%20Code&center=true&width=440&height=45&color=0492d9&vCenter=true&pause=1000&size=22&duration=1" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Benjamin%20Saenz&font=Fira%20Code&center=true&width=440&height=45&color=61dafb&vCenter=true&pause=1000&size=22&duration=1" />
   </a>
 </div>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Computer%20Engineering%20@%20UMD;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0492d9&vCenter=true&pause=1000&size=22&duration=2500" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Computer%20Engineering%20@%20UMD;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=61dafb&vCenter=true&pause=1000&size=22&duration=2500" />
   </a>
 </p>
 
@@ -61,11 +61,11 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-      <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=benj1sa&hide_border=true&theme=nightowl" />
+      <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=benj1sa&hide_border=true&theme=react" />
     </p>
     <p align="center">
-      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=benj1sa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl"/> 
-      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benj1sa&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=benj1sa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react"/> 
+      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benj1sa&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=react" />
     </p>
 </details>
 
