@@ -1,9 +1,12 @@
+<!-- Name -->
 <div align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Benjamin%20Saenz&font=Fira%20Code&center=true&width=440&height=45&color=61dafb&vCenter=true&pause=1000&size=22&duration=1" />
   </a>
 </div>
 
+<!-- Description -->
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -11,6 +14,7 @@
   </a>
 </p>
 
+<!-- Socials -->
 <p align="center">
   <a href="mailto:bsaenz@umd.edu?subject=Hello%20Ben%20Saenz"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bsaenz2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,9 +22,10 @@
 
 <hr/>
 
-<table align="right">
- <tr><td><img src="blocks.gif" /></td></tr>
-</table>
+<!-- About Section -->
+
+<!-- blocks.gif from backstage.io at https://backstage.io/ -->
+<img align="right" height="200px" width="200px" src="blocks.gif" />
 
 ### About Me
 &nbsp;&nbsp;&nbsp; 🔭 I’m currently working on **Member Profile Pages for College Success Scholars**
@@ -33,6 +38,9 @@
 </p>
 
 <hr/>
+
+<!-- Tools & Tech -->
+<!-- Layout by brunotacca from https://github.com/brunotacca -->
 
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
@@ -78,6 +86,8 @@
 </details>
 
 <hr/>
+
+<!-- Statistics -->
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=benj1sa&style=plastic&label=Views" />
