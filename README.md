@@ -64,8 +64,12 @@
       <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=benj1sa&hide_border=true&theme=react" />
     </p>
     <p align="center">
-      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=benj1sa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=react"/> 
-      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benj1sa&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=react" />
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=benj1sa&show_icons=true&hide_rank=true&hide_border=true&theme=react" />
+      </a>
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benj1sa&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=react" />
+      </a>
     </p>
 </details>
 
