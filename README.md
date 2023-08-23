@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Benjamin%20Saenz&font=Fira%20Code&center=true&width=440&height=45&color=02ced4&vCenter=true&pause=1000&size=22&duration=1" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Benjamin%20Saenz&font=Fira%20Code&center=true&width=440&height=45&color=4634eb&vCenter=true&pause=1000&size=22&duration=1" />
   </a>
 </div>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Computer%20Engineering%20@%20UMD;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=02ced4&vCenter=true&pause=1000&size=22&duration=2500" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Computer%20Engineering%20@%20UMD;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=4634eb&vCenter=true&pause=1000&size=22&duration=2500" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ### About Me
 
-&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on **CSS Member Profile Pages**
+&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on **Member Profile Pages for College Success Scholars**
 
 &nbsp;&nbsp;&nbsp; 🌱 I’m currently learning **React**
 
