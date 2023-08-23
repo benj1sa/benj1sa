@@ -18,8 +18,11 @@
 
 <hr/>
 
-### About Me
+<table align="right">
+ <tr><td><img src="blocks.gif" /></td></tr>
+</table>
 
+### About Me
 &nbsp;&nbsp;&nbsp; 🔭 I’m currently working on **Member Profile Pages for College Success Scholars**
 
 &nbsp;&nbsp;&nbsp; 🌱 I’m currently learning **React**
@@ -27,6 +30,7 @@
 &nbsp;&nbsp;&nbsp; 💬 Ask me about **Java, Data Structures & Algorithms**
 
 &nbsp;&nbsp;&nbsp; 📫 How to reach me **bsaenz@umd.edu**
+</p>
 
 <hr/>
 
