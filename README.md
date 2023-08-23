@@ -25,7 +25,7 @@
 <!-- About Section -->
 
 <!-- blocks.gif from backstage.io at https://backstage.io/ -->
-<img align="right" height="200px" width="200px" src="blocks.gif" />
+<img align="right" height="180px" width="180px" src="blocks.gif" />
 
 ### About Me
 &nbsp;&nbsp;&nbsp; 🔭 I’m currently working on **Member Profile Pages for College Success Scholars**
