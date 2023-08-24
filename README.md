@@ -51,11 +51,11 @@
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-  <!-- Agile -->
+  ![Agile](https://img.shields.io/badge/AGILE-7B68EE.svg?&style=flat&logo=agile&logoColor=white)&nbsp;
   ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
   ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
   ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
-  <!-- Trello -->
+  ![Trello](https://img.shields.io/badge/TRELLO-0052CC.svg?style=flat&logo=trello&logoColor=white)&nbsp;
 </details>
 
 <details>
@@ -64,9 +64,9 @@
   
   ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
   ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-  <!-- C
-  MATLAB
-  Fusion360 -->
+  ![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)&nbsp;
+  ![MATLAB](https://img.shields.io/badge/MATLAB-7B68EE.svg?style=flat&logoColor=white)&nbsp;
+  ![Fusion360](https://img.shields.io/badge/FUSION360-000000.svg?&style=flat&logo=autodesk&logoColor=white)&nbsp;
 </details>
 
 <details>
