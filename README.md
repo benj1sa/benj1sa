@@ -42,7 +42,7 @@
 <!-- Tools & Tech -->
 <!-- Layout by brunotacca from https://github.com/brunotacca -->
 
-<details>
+<details open>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
   
@@ -58,7 +58,7 @@
   ![Trello](https://img.shields.io/badge/TRELLO-0052CC.svg?style=flat&logo=trello&logoColor=white)&nbsp;
 </details>
 
-<details>
+<details open>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
   
