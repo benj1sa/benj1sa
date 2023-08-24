@@ -67,6 +67,7 @@
   ![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)&nbsp;
   ![MATLAB](https://img.shields.io/badge/MATLAB-7B68EE.svg?style=flat&logoColor=white)&nbsp;
   ![Fusion360](https://img.shields.io/badge/FUSION360-000000.svg?&style=flat&logo=autodesk&logoColor=white)&nbsp;
+  ![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%61DAFB)
 </details>
 
 <details>
