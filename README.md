@@ -28,7 +28,7 @@
 <img align="right" height="180px" width="180px" src="blocks.gif" />
 
 ### About Me
-&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on **Member Profile Pages for College Success Scholars**
+&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on **AI-Customer Support App**
 
 &nbsp;&nbsp;&nbsp; 🌱 I’m currently learning **React**
 
