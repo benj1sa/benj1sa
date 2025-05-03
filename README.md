@@ -28,9 +28,7 @@
 <img align="right" height="180px" width="180px" src="blocks.gif" />
 
 ### About Me
-&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on **AI-Customer Support App**
-
-&nbsp;&nbsp;&nbsp; 🌱 I’m currently learning **React**
+&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on **Building Valley AI**
 
 &nbsp;&nbsp;&nbsp; 💬 Ask me about **Java, Data Structures & Algorithms**
 
